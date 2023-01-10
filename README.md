@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFox993
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Linux
 
 
 <!---
