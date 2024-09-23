@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFox993
 
-- I’m currently learning Python and Linux
+- I’m currently learning JavaScript and WebDevelopment
 - I'm now a student at Developer Akademie
 
 
